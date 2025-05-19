@@ -1,6 +1,6 @@
 #Olá, eu sou Yasmin!
 - 🔭 Apaixonada por tecnologia
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/Yasmin-Rodrigues">
