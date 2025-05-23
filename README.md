@@ -1,5 +1,5 @@
 #Olá, eu sou Yasmin!
-- 🔭 Apaixonada por tecnologia
+- 👩 24 years old, Rio de Janeiro
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
