@@ -1,6 +1,5 @@
 #Olá, eu sou Yasmin!
-- 👩 24 years old, Rio de Janeiro
-- 🌱 Formada em Análise e Desenvolvimento de Sistemas 
+- 👩 24 years old, Rio de Janeiro 
 
 <div align="center">
   <a href="https://github.com/Yasmin-Rodrigues">
