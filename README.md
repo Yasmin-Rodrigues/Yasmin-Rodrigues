@@ -1,7 +1,7 @@
 # Olá, eu sou Yasmin! 👋  
 - 👩 24 anos  
 - 🏙️ Rio de Janeiro - Brasil  
-- 💻 QA Analyst | Testes Automatizados com Cypress  
+- 💻 QA Analyst | Testes Automatizados  
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
 - ✨ Apaixonada por tecnologia, qualidade de software e aprender coisas novas!
 
