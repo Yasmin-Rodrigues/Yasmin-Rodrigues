@@ -1,5 +1,5 @@
 # Olá, eu sou Yasmin! 👋  
-- 👩 24 anos  
+- 👩 25 anos  
 - 🏙️ Rio de Janeiro - Brasil  
 - 💻 QA Analyst | Testes Automatizados  
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
