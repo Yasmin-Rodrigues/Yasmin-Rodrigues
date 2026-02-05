@@ -2,7 +2,6 @@
 - 👩 25 anos  
 - 🏙️ Rio de Janeiro - Brasil  
 - 💻 QA Analyst | Testes Automatizados  
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
 
 
 <div style="display: inline_block"><br>
