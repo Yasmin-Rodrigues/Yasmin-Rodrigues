@@ -3,7 +3,6 @@
 - 🏙️ Rio de Janeiro - Brasil  
 - 💻 QA Analyst | Testes Automatizados  
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
-- ✨ Apaixonada por tecnologia, qualidade de software e aprender coisas novas!
 
 
 <div style="display: inline_block"><br>
